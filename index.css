@@ -1,0 +1,111 @@
+
+body
+{
+background: black fixed;
+width: 1200px;
+margin: auto;
+}
+
+/* MENU */
+
+.image
+{
+text-align: center;
+}
+
+.arrondie
+{
+border-radius: 40px;
+}
+
+nav
+{
+  background: fixed;
+  background-color:#202020 ;
+  color: white;
+  width: 296px;
+  height:2110px;
+  font-size: 15px;
+  border-left: 40px;
+}
+
+ h1
+ {
+text-align: center;
+ }
+
+nav p
+{
+background: linear-gradient(-90deg, #202020, white);
+}
+
+div ul li
+{
+display: block;
+height: 85px;
+width: 296px;
+border-top:1px grey solid;
+margin: auto;
+}
+
+/* MENU PRINCIPAL  */
+
+.corps img
+{
+  width: 800px;
+  height:400px;
+  margin-left: 49px;
+  margin-right: 49px;
+  margin-top: 49px;
+}
+
+.corps
+{
+  display: inline-block;
+  width: 900px;
+  height:2114px;
+  background: white;
+  border-top: #4682B4 3px solid;
+
+}
+
+.texte
+{
+display: inline-block;
+text-decoration: none;
+text-align: center;
+margin-right: 49px;
+margin-left: 49px;
+font-family: "Abadi MT Condensed Light";
+
+}
+
+.texte h1
+{
+text-decoration: none;
+text-align: center;
+margin-right: 49px;
+margin-left: 49px;
+font-size: 33px;
+
+
+}
+
+.texte  p
+{
+text-decoration: none;
+text-align: center;
+margin-right: 49px;
+margin-left: 49px;
+font-size: 15px;
+
+
+}
+
+
+.texte U
+{
+color: #4682B4;
+font-family: "Abadi MT Condensed Light";
+}
+/*  */
